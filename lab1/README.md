@@ -8,7 +8,7 @@
 3)
 ![image](https://user-images.githubusercontent.com/91901972/196994642-22d7c64f-1dc8-4b37-b01a-3108daa5248e.png)
 4)
-![image](https://user-images.githubusercontent.com/91901972/196994296-168efa9e-f8ec-4776-8552-97cb1445e80f.png)
+![image](https://user-images.githubusercontent.com/91901972/196997367-a6f77c3b-a69d-4e44-98fc-58a9acd3232d.png)
 5)
 ![image](https://user-images.githubusercontent.com/91901972/196995467-1eadcaad-a263-4703-9777-a07cc5cfaba3.png)
 6)
