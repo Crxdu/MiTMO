@@ -23,3 +23,4 @@
 ![image](https://user-images.githubusercontent.com/91901972/197035068-0cdaa51e-0c33-40f7-ac33-79c630bb7363.png)
 ![image](https://user-images.githubusercontent.com/91901972/197035155-5431d527-2621-417d-a7b1-4dc1922123a4.png)
 ![image](https://user-images.githubusercontent.com/91901972/197035243-c92f05bc-d359-4445-a04d-6bc37166f440.png)
+Чем больше наблюдений, через которые прошёл сплайн, тем точнее модель. Это говорит о переобучении. Лучшую модель следуют выбирать по минимуму на кривой MSE на тестовой выборке.
