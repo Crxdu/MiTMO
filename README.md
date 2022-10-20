@@ -1,5 +1,5 @@
 # MiTMO
 [Оценка точности модели с непрерывной зависимой переменной](https://github.com/Crxdu/MiTMO/tree/main/lab1)
-[https://github.com/Crxdu/MiTMO/tree/main/lab2](https://github.com/Crxdu/MiTMO/tree/main/lab2)
+[Линейные модели. Кросс-валидация.](https://github.com/Crxdu/MiTMO/tree/main/lab2)
 
 
