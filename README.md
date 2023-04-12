@@ -6,3 +6,4 @@
 5. [Машины опорных векторов.](https://github.com/Crxdu/MiTMO/tree/main/lab5)
 6. [Машинное обучение "без учителя". Задача кластеризации.](https://github.com/Crxdu/MiTMO/tree/main/lab6)
 7. [Исследование  факторов  и организация работы с таблицами данных](https://github.com/Crxdu/MiTMO/tree/main/lab7)
+8. [Парсинг сайтов и анализ текстовой информации](https://github.com/Crxdu/MiTMO/tree/main/lab8)
